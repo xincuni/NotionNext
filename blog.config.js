@@ -1,7 +1,7 @@
 // 注: process.env.XX是Vercel的环境变量，配置方式见：https://docs.tangly1024.com/zh/features/personality
 const BLOG = {
   AUTHOR: '华不再扬', // 作者
-  BIO: '一个普通的干饭人🍚', // 作者简介
+  BIO: '我们置身于互联网这个“水大鱼大”的市场，如果不清楚商业思维，无异于鱼儿身处水中而不知何为水。', // 作者简介
   LINK: 'https://gqapwd.com', // 网站地址
   KEYWORDS: '云原生, 博客', // 网站关键词 英文逗号隔开
   NOTION_PAGE_ID:
